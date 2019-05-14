@@ -1,0 +1,25 @@
+	<meta charset="UTF-8">
+		<div class="search">
+				<input type="button" value="查询所有" onclick="searchAll()" >
+				
+				<form id="form1" method="post" action="##" onsubmit="return false">
+					姓名：<input type="text" name="name" /> <input type="button" value="查询"
+						onclick="searchOne()" />
+				</form>
+				<form id="form2" method="post" action="##" onsubmit="return false">
+					学号：<input type="text" name="id" /> <input type="button" value="查询"
+						onclick="searchById()" />
+				</form>	
+		</div>
+		<div id="display" width=80% >
+				<table id="table" >
+				<tr>
+					<th>姓名</th>
+					<th>学号</th>
+					<th>年龄</th>
+					<th>性别</th>
+					<th>分数</th>
+				</tr>
+				</table>
+				<div id="error"></div>
+		</div>
