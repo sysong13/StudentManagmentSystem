@@ -1,5 +1,10 @@
 ### 界面预览
+* 查询界面
+![avatar](https://raw.githubusercontent.com/sysong13/StudentManagmentSystem/master/StudentManagementSystem/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20190514200229.png)
 
+* 添加界面
+
+![avatar](https://raw.githubusercontent.com/sysong13/StudentManagmentSystem/master/StudentManagementSystem/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20190514200243.png)
 ### 后端使用mysql数据库 + JDBC + DAO设计模式 + Servlet产生JSON数据
 
 ### 前端使用ajax获取JSON数据，jquery实现渲染
